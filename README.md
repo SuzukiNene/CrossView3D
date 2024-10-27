@@ -1,3 +1,11 @@
+
+[2024/10/27]  
+WebGL版のビルドに対応し、GitHub Pagesに公開しました。  
+I prepared WebGL build version on GitHub Pages.  
+- https://suzukinene.github.io/CrossViewWeb/  
+<br>
+***
+
 # CrossView
 CrossViewは、ロボカップ サッカーシミュレーション(2D)のための、"3D"ログプレーヤーです。  
 Unityで開発しました。  
@@ -250,6 +258,8 @@ https://github.com/SuzukiNene/CrossView3D
 
 - GitHub  
 https://github.com/SuzukiNene/CrossView3D/releases  
+- WebGL version  
+https://suzukinene.github.io/CrossViewWeb/  
 - Microsoft Store  
 (T.B.D)  
 <br>
