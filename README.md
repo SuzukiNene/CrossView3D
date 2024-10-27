@@ -1,10 +1,8 @@
-
 [2024/10/27]  
 WebGL版のビルドに対応し、GitHub Pagesに公開しました。  
 I prepared WebGL build version on GitHub Pages.  
 - https://suzukinene.github.io/CrossViewWeb/  
 <br>
-***
 
 # CrossView
 CrossViewは、ロボカップ サッカーシミュレーション(2D)のための、"3D"ログプレーヤーです。  
