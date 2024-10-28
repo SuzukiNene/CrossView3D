@@ -10,6 +10,8 @@ Unityで開発しました。
 CrossView is "3D" LogPlayer for RoboCup Soccer Simulation(2D), Made with Unity.  
 
 ![CrossView_Playing_001](https://github.com/user-attachments/assets/adbf0a3a-d6d2-4026-924a-5e0d0006f528)  
+
+![CrossView_ThirdPerson_001](https://github.com/user-attachments/assets/7cf9d508-32cb-40f8-8854-1fd6c9bc5c80)  
 <br>
 
 ## ロボカップ サッカーシミュレーション(2D)とは？ - About RoboCup Soccer Simulation(2D)
@@ -104,8 +106,6 @@ Quite simply, it's fun to watch.
 I hope that this will be useful as an analysis tool for developers.  
 
 ![CrossView_ViewAngle_001](https://github.com/user-attachments/assets/6b3294cc-2f71-4ea6-a09a-52752680819c)  
-
-![CrossView_ThirdPerson_001](https://github.com/user-attachments/assets/7cf9d508-32cb-40f8-8854-1fd6c9bc5c80)  
 
 ![CrossView_NightMode_001](https://github.com/user-attachments/assets/aa09d0f1-c9b0-40e5-bfc2-a57295d6e4c3)  
 <br>
