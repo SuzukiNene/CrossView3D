@@ -1,3 +1,9 @@
+[2024/11/07]  
+Added some memo for public.
+- Assets/External Assets/FileList.txt  
+- Assets/Prefabs/How to create Player_00 Prefab.md  
+<br>
+
 [2024/10/27]  
 WebGL版のビルドに対応し、GitHub Pagesに公開しました。  
 I prepared WebGL build version on GitHub Pages.  
