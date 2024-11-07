@@ -1,0 +1,516 @@
+
+EXTERNAL ASSETS
+│  Banana Yellow Games.meta
+│  Downtown Game Studio.meta
+│  Easy Primitive People.meta
+│  FreeSportsKIt_SA.meta
+│  Mixamo.meta
+│  Modern_Bench Pack.meta
+│  SimpleNaturePack.meta
+│  SimpleSpinner.meta
+│  StandaloneFileBrowser.meta
+│  UnityTechnologies.meta
+│  _Heathen Engineering.meta
+│  
+├─Banana Yellow Games
+│  │  Characters.meta
+│  │  
+│  └─Characters
+│      │  Banana Man.meta
+│      │  
+│      └─Banana Man
+│          │  Banana Man.fbx
+│          │  Banana Man.fbx.meta
+│          │  Materials.meta
+│          │  Textures.meta
+│          │  
+│          ├─Materials
+│          │      Body.mat
+│          │      Body.mat.meta
+│          │      Joints.mat
+│          │      Joints.mat.meta
+│          │      
+│          └─Textures
+│                  Banana Man Albedo.png
+│                  Banana Man Albedo.png.meta
+│                  
+├─Downtown Game Studio
+│  │  HYPERCASUAL - Simple Female & Male Characters.meta
+│  │  
+│  └─HYPERCASUAL - Simple Female & Male Characters
+│      │  Materials.meta
+│      │  Models.meta
+│      │  Prefabs.meta
+│      │  Textures.meta
+│      │  
+│      ├─Materials
+│      │  │  Female.meta
+│      │  │  Male.meta
+│      │  │  Pedestal Female 1.mat
+│      │  │  Pedestal Female 1.mat.meta
+│      │  │  Pedestal Male.mat
+│      │  │  Pedestal Male.mat.meta
+│      │  │  Walls.mat
+│      │  │  Walls.mat.meta
+│      │  │  
+│      │  ├─Female
+│      │  │      Female.mat
+│      │  │      Female.mat.meta
+│      │  │      
+│      │  └─Male
+│      │          Male.mat
+│      │          Male.mat.meta
+│      │          
+│      ├─Models
+│      │      Female.fbx
+│      │      Female.fbx.meta
+│      │      Male.fbx
+│      │      Male.fbx.meta
+│      │      
+│      ├─Prefabs
+│      │      Female.prefab
+│      │      Female.prefab.meta
+│      │      Male.prefab
+│      │      Male.prefab.meta
+│      │      
+│      └─Textures
+│          │  Female.meta
+│          │  Male.meta
+│          │  
+│          ├─Female
+│          │      Female.png
+│          │      Female.png.meta
+│          │      
+│          └─Male
+│                  Male.png
+│                  Male.png.meta
+│                  
+├─Easy Primitive People
+│  │  Prefab.meta
+│  │  
+│  └─Prefab
+│          Goal.prefab
+│          Goal.prefab.meta
+│          
+├─FreeSportsKIt_SA
+│  │  Materials.meta
+│  │  Models.meta
+│  │  Prefabs.meta
+│  │  Textures.meta
+│  │  
+│  ├─Materials
+│  │      Soccer_Ball.mat
+│  │      Soccer_Ball.mat.meta
+│  │      
+│  ├─Models
+│  │      SoccerBall_01.fbx
+│  │      SoccerBall_01.fbx.meta
+│  │      
+│  ├─Prefabs
+│  │      SoccerBall_01.prefab
+│  │      SoccerBall_01.prefab.meta
+│  │      
+│  └─Textures
+│      │  SoccerBall_textures.meta
+│      │  
+│      └─SoccerBall_textures
+│              Ball_Base_Color.png
+│              Ball_Base_Color.png.meta
+│              Ball_Normals.png
+│              Ball_Normals.png.meta
+│              
+├─Mixamo
+│  │  Animations.meta
+│  │  
+│  └─Animations
+│          X Bot@Breathing Idle.fbx
+│          X Bot@Breathing Idle.fbx.meta
+│          X Bot@Goalkeeper Catch.fbx
+│          X Bot@Goalkeeper Catch.fbx.meta
+│          X Bot@Goalkeeper Idle.fbx
+│          X Bot@Goalkeeper Idle.fbx.meta
+│          X Bot@Goalkeeper Pass.fbx
+│          X Bot@Goalkeeper Pass.fbx.meta
+│          X Bot@Jog Backward.fbx
+│          X Bot@Jog Backward.fbx.meta
+│          X Bot@Jog Forward.fbx
+│          X Bot@Jog Forward.fbx.meta
+│          X Bot@Soccer Pass.fbx
+│          X Bot@Soccer Pass.fbx.meta
+│          X Bot@Soccer Tackle.fbx
+│          X Bot@Soccer Tackle.fbx.meta
+│          
+├─Modern_Bench Pack
+│  │  Materials.meta
+│  │  Prefabs.meta
+│  │  Textures.meta
+│  │  
+│  ├─Materials
+│  │      black wood 1.mat
+│  │      black wood 1.mat.meta
+│  │      black wood 2.mat
+│  │      black wood 2.mat.meta
+│  │      Black_wood.mat
+│  │      Black_wood.mat.meta
+│  │      Concrete.mat
+│  │      Concrete.mat.meta
+│  │      Gray_Plaster.mat
+│  │      Gray_Plaster.mat.meta
+│  │      Metal_Texture.mat
+│  │      Metal_Texture.mat.meta
+│  │      Steel.mat
+│  │      Steel.mat.meta
+│  │      Wood.mat
+│  │      Wood.mat.meta
+│  │      
+│  ├─Prefabs
+│  │  │  Bench_4.meta
+│  │  │  
+│  │  └─Bench_4
+│  │      │  Mesh.meta
+│  │      │  Prefab.meta
+│  │      │  
+│  │      ├─Mesh
+│  │      │      pillars.asset
+│  │      │      pillars.asset.meta
+│  │      │      Sit_area.asset
+│  │      │      Sit_area.asset.meta
+│  │      │      
+│  │      └─Prefab
+│  │              Bench_4.prefab
+│  │              Bench_4.prefab.meta
+│  │              
+│  └─Textures
+│          black wood 1.png
+│          black wood 1.png.meta
+│          Gray_Plaster.png
+│          Gray_Plaster.png.meta
+│          
+├─SimpleNaturePack
+│  │  Materials.meta
+│  │  Models.meta
+│  │  Prefabs.meta
+│  │  Textures.meta
+│  │  
+│  ├─Materials
+│  │      SimpleNaturePack_BG.mat
+│  │      SimpleNaturePack_BG.mat.meta
+│  │      SimpleNaturePack_Texture_01.mat
+│  │      SimpleNaturePack_Texture_01.mat.meta
+│  │      
+│  ├─Models
+│  │      Branch_01.fbx
+│  │      Branch_01.fbx.meta
+│  │      Bush_01.fbx
+│  │      Bush_01.fbx.meta
+│  │      Bush_02.fbx
+│  │      Bush_02.fbx.meta
+│  │      Bush_03.fbx
+│  │      Bush_03.fbx.meta
+│  │      Flowers_01.fbx
+│  │      Flowers_01.fbx.meta
+│  │      Flowers_02.fbx
+│  │      Flowers_02.fbx.meta
+│  │      Grass_01.fbx
+│  │      Grass_01.fbx.meta
+│  │      Grass_02.fbx
+│  │      Grass_02.fbx.meta
+│  │      Ground_01.fbx
+│  │      Ground_01.fbx.meta
+│  │      Ground_02.fbx
+│  │      Ground_02.fbx.meta
+│  │      Ground_03.fbx
+│  │      Ground_03.fbx.meta
+│  │      Mushroom_01.fbx
+│  │      Mushroom_01.fbx.meta
+│  │      Mushroom_02.fbx
+│  │      Mushroom_02.fbx.meta
+│  │      Rock_01.fbx
+│  │      Rock_01.fbx.meta
+│  │      Rock_02.fbx
+│  │      Rock_02.fbx.meta
+│  │      Rock_03.fbx
+│  │      Rock_03.fbx.meta
+│  │      Rock_04.fbx
+│  │      Rock_04.fbx.meta
+│  │      Rock_05.fbx
+│  │      Rock_05.fbx.meta
+│  │      Stump_01.fbx
+│  │      Stump_01.fbx.meta
+│  │      Tree_01.fbx
+│  │      Tree_01.fbx.meta
+│  │      Tree_02.fbx
+│  │      Tree_02.fbx.meta
+│  │      Tree_03.fbx
+│  │      Tree_03.fbx.meta
+│  │      Tree_04.fbx
+│  │      Tree_04.fbx.meta
+│  │      Tree_05.fbx
+│  │      Tree_05.fbx.meta
+│  │      
+│  ├─Prefabs
+│  │      Branch_01.prefab
+│  │      Branch_01.prefab.meta
+│  │      Bush_01.prefab
+│  │      Bush_01.prefab.meta
+│  │      Bush_02.prefab
+│  │      Bush_02.prefab.meta
+│  │      Bush_03.prefab
+│  │      Bush_03.prefab.meta
+│  │      Flowers_01.prefab
+│  │      Flowers_01.prefab.meta
+│  │      Flowers_02.prefab
+│  │      Flowers_02.prefab.meta
+│  │      Grass_01.prefab
+│  │      Grass_01.prefab.meta
+│  │      Grass_02.prefab
+│  │      Grass_02.prefab.meta
+│  │      Ground_01.prefab
+│  │      Ground_01.prefab.meta
+│  │      Ground_02.prefab
+│  │      Ground_02.prefab.meta
+│  │      Ground_03.prefab
+│  │      Ground_03.prefab.meta
+│  │      Mushroom_01.prefab
+│  │      Mushroom_01.prefab.meta
+│  │      Mushroom_02.prefab
+│  │      Mushroom_02.prefab.meta
+│  │      Rock_01.prefab
+│  │      Rock_01.prefab.meta
+│  │      Rock_02.prefab
+│  │      Rock_02.prefab.meta
+│  │      Rock_03.prefab
+│  │      Rock_03.prefab.meta
+│  │      Rock_04.prefab
+│  │      Rock_04.prefab.meta
+│  │      Rock_05.prefab
+│  │      Rock_05.prefab.meta
+│  │      Stump_01.prefab
+│  │      Stump_01.prefab.meta
+│  │      Tree_01.prefab
+│  │      Tree_01.prefab.meta
+│  │      Tree_02.prefab
+│  │      Tree_02.prefab.meta
+│  │      Tree_03.prefab
+│  │      Tree_03.prefab.meta
+│  │      Tree_04.prefab
+│  │      Tree_04.prefab.meta
+│  │      Tree_05.prefab
+│  │      Tree_05.prefab.meta
+│  │      
+│  └─Textures
+│          NaturePackLite_Texture_01.png
+│          NaturePackLite_Texture_01.png.meta
+│          
+├─SimpleSpinner
+│  │  Demo.unity
+│  │  Demo.unity.meta
+│  │  Readme.txt
+│  │  Readme.txt.meta
+│  │  SimpleSpinner.cs
+│  │  SimpleSpinner.cs.meta
+│  │  Spinners.meta
+│  │  
+│  └─Spinners
+│          1.png
+│          1.png.meta
+│          10.png
+│          10.png.meta
+│          11.png
+│          11.png.meta
+│          12.png
+│          12.png.meta
+│          13.png
+│          13.png.meta
+│          14.png
+│          14.png.meta
+│          15.png
+│          15.png.meta
+│          16.png
+│          16.png.meta
+│          17.png
+│          17.png.meta
+│          18.png
+│          18.png.meta
+│          19.png
+│          19.png.meta
+│          2.png
+│          2.png.meta
+│          3.png
+│          3.png.meta
+│          4.png
+│          4.png.meta
+│          5.png
+│          5.png.meta
+│          6.png
+│          6.png.meta
+│          7.png
+│          7.png.meta
+│          8.png
+│          8.png.meta
+│          9.png
+│          9.png.meta
+│          
+├─StandaloneFileBrowser
+│  │  IStandaloneFileBrowser.cs
+│  │  IStandaloneFileBrowser.cs.meta
+│  │  Plugins.meta
+│  │  StandaloneFileBrowser.cs
+│  │  StandaloneFileBrowser.cs.meta
+│  │  StandaloneFileBrowserEditor.cs
+│  │  StandaloneFileBrowserEditor.cs.meta
+│  │  StandaloneFileBrowserLinux.cs
+│  │  StandaloneFileBrowserLinux.cs.meta
+│  │  StandaloneFileBrowserMac.cs
+│  │  StandaloneFileBrowserMac.cs.meta
+│  │  StandaloneFileBrowserWindows.cs
+│  │  StandaloneFileBrowserWindows.cs.meta
+│  │  
+│  └─Plugins
+│      │  Linux.meta
+│      │  Ookii.Dialogs.dll
+│      │  Ookii.Dialogs.dll.meta
+│      │  StandaloneFileBrowser.bundle.meta
+│      │  StandaloneFileBrowser.jslib
+│      │  StandaloneFileBrowser.jslib.meta
+│      │  System.Windows.Forms.dll
+│      │  System.Windows.Forms.dll.meta
+│      │  
+│      ├─Linux
+│      │  │  x86_64.meta
+│      │  │  
+│      │  └─x86_64
+│      │          libStandaloneFileBrowser.so
+│      │          libStandaloneFileBrowser.so.meta
+│      │          
+│      └─StandaloneFileBrowser.bundle
+│          │  Contents.meta
+│          │  
+│          └─Contents
+│              │  Info.plist
+│              │  Info.plist.meta
+│              │  MacOS.meta
+│              │  
+│              └─MacOS
+│                      StandaloneFileBrowser
+│                      StandaloneFileBrowser.meta
+│                      
+├─UnityTechnologies
+│  │  SpaceRobotKyle.meta
+│  │  
+│  └─SpaceRobotKyle
+│      │  Materials.meta
+│      │  Models.meta
+│      │  Prefabs.meta
+│      │  Textures.meta
+│      │  
+│      ├─Materials
+│      │      Robot_Color 1.mat
+│      │      Robot_Color 1.mat.meta
+│      │      Robot_Color 2.mat
+│      │      Robot_Color 2.mat.meta
+│      │      Robot_Color 3.mat
+│      │      Robot_Color 3.mat.meta
+│      │      Robot_Color.mat
+│      │      Robot_Color.mat.meta
+│      │      
+│      ├─Models
+│      │      Robot Kyle.fbx
+│      │      Robot Kyle.fbx.meta
+│      │      
+│      ├─Prefabs
+│      │      Robot Kyle.prefab
+│      │      Robot Kyle.prefab.meta
+│      │      
+│      └─Textures
+│              Robot_Color.tga
+│              Robot_Color.tga.meta
+│              Robot_Normal.tga
+│              Robot_Normal.tga.meta
+│              
+└─_Heathen Engineering
+    │  Assets.meta
+    │  
+    └─Assets
+        │  UX.meta
+        │  
+        └─UX
+            │  Icons.meta
+            │  
+            └─Icons
+                │  Flat Icons [Free].meta
+                │  
+                └─Flat Icons [Free]
+                        Free Flat Arrow 1 E Icon.png
+                        Free Flat Arrow 1 E Icon.png.meta
+                        Free Flat Arrow 1 W Icon.png
+                        Free Flat Arrow 1 W Icon.png.meta
+                        Free Flat Arrow 7 E Icon.png
+                        Free Flat Arrow 7 E Icon.png.meta
+                        Free Flat Arrow 7 W Icon.png
+                        Free Flat Arrow 7 W Icon.png.meta
+                        Free Flat Arrow Curved Left 2 Icon.png
+                        Free Flat Arrow Curved Left 2 Icon.png.meta
+                        Free Flat Battery Empty Icon.png
+                        Free Flat Battery Empty Icon.png.meta
+                        Free Flat Battery Smooth 1 Icon.png
+                        Free Flat Battery Smooth 1 Icon.png.meta
+                        Free Flat Battery Smooth 2 Icon.png
+                        Free Flat Battery Smooth 2 Icon.png.meta
+                        Free Flat Battery Smooth 3 Icon.png
+                        Free Flat Battery Smooth 3 Icon.png.meta
+                        Free Flat Battery Smooth 4 Icon.png
+                        Free Flat Battery Smooth 4 Icon.png.meta
+                        Free Flat Battery Smooth 5 Icon.png
+                        Free Flat Battery Smooth 5 Icon.png.meta
+                        Free Flat Chat 1 Bars Icon.png
+                        Free Flat Chat 1 Bars Icon.png.meta
+                        Free Flat Chat 1 Blank Icon.png
+                        Free Flat Chat 1 Blank Icon.png.meta
+                        Free Flat Disk 5 Icon.png
+                        Free Flat Disk 5 Icon.png.meta
+                        Free Flat Edit Icon.png
+                        Free Flat Edit Icon.png.meta
+                        Free Flat Exit Door Icon.png
+                        Free Flat Exit Door Icon.png.meta
+                        Free Flat Gear 2 Icon.png
+                        Free Flat Gear 2 Icon.png.meta
+                        Free Flat Magnify Minus Icon.png
+                        Free Flat Magnify Minus Icon.png.meta
+                        Free Flat Magnify Plus Icon.png
+                        Free Flat Magnify Plus Icon.png.meta
+                        Free Flat Media Left Double Icon.png
+                        Free Flat Media Left Double Icon.png.meta
+                        Free Flat Media Left Full Icon.png
+                        Free Flat Media Left Full Icon.png.meta
+                        Free Flat Media Pause Icon.png
+                        Free Flat Media Pause Icon.png.meta
+                        Free Flat Media Right Double Icon.png
+                        Free Flat Media Right Double Icon.png.meta
+                        Free Flat Media Right Full Icon.png
+                        Free Flat Media Right Full Icon.png.meta
+                        Free Flat Media Right Icon.png
+                        Free Flat Media Right Icon.png.meta
+                        Free Flat Menu 11 Icon.png
+                        Free Flat Menu 11 Icon.png.meta
+                        Free Flat Menu 12 Icon.png
+                        Free Flat Menu 12 Icon.png.meta
+                        Free Flat Menu 3 Icon.png
+                        Free Flat Menu 3 Icon.png.meta
+                        Free Flat Menu 7 Icon.png
+                        Free Flat Menu 7 Icon.png.meta
+                        Free Flat Pen Icon.png
+                        Free Flat Pen Icon.png.meta
+                        Free Flat People 1 Icon.png
+                        Free Flat People 1 Icon.png.meta
+                        Free Flat People 3 Icon.png
+                        Free Flat People 3 Icon.png.meta
+                        Free Flat Person Icon.png
+                        Free Flat Person Icon.png.meta
+                        Free Flat Signal Up 3 Icon.png
+                        Free Flat Signal Up 3 Icon.png.meta
+                        Free Flat Star Filled Icon.png
+                        Free Flat Star Filled Icon.png.meta
+                        Free Flat Volume 3 Icon.png
+                        Free Flat Volume 3 Icon.png.meta
+
