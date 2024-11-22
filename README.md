@@ -1,14 +1,9 @@
-[2024/11/07]  
-Added some memo for public.
-- HowToCreate_Player_00_Prefab.md  
-- Assets/External Assets/FileList.txt  
-<br>
-
-[2024/10/27]  
-WebGL版のビルドに対応し、GitHub Pagesに公開しました。  
-I prepared WebGL build version on GitHub Pages.  
-- https://suzukinene.github.io/CrossViewWeb/  
-<br>
+# History
+- 2024/11/07 - Added some memo for public.
+  - HowToCreate_Player_00_Prefab.md
+  - Assets/External Assets/FileList.txt
+- 2024/10/27 - I prepared WebGL build version on GitHub Pages.
+  - https://suzukinene.github.io/CrossViewWeb/
 
 # CrossView
 CrossViewは、ロボカップ サッカーシミュレーション(2D)のための、"3D"ログプレーヤーです。  
@@ -245,29 +240,6 @@ Additionally, when you turn on NightMode, the viewing angle and range can be rep
 	- Visual Studio Community 2019  
 <br>
 
-## ソースコード - Source Code
-
-- GitHub  
-https://github.com/SuzukiNene/CrossView3D  
-
-	```
-	External Assetsフォルダ以下のファイルは同梱していません。  
-	本Unityプロジェクトをビルドする場合は、手動で追加してください。  
-	Files under the External Assets folder are not included.  
-	If you want to build this Unity project, please add them manually.  
-	```
-<br>
-
-## バイナリ - Binary
-
-- GitHub  
-https://github.com/SuzukiNene/CrossView3D/releases  
-- WebGL version  
-https://suzukinene.github.io/CrossViewWeb/  
-- Microsoft Store  
-(T.B.D)  
-<br>
-
 ## 外部アセット - External Assets
 
 - Unity Asset Store  
@@ -305,6 +277,30 @@ https://suzukinene.github.io/CrossViewWeb/
 		- https://github.com/gkngkc/UnityStandaloneFileBrowser  
 <br>
 
+## ソースコード - Source Code
+
+- GitHub  
+https://github.com/SuzukiNene/CrossView3D  
+
+	```
+	External Assetsフォルダ以下のファイルは同梱していません。  
+	本Unityプロジェクトをビルドする場合は、手動で追加してください。  
+	Files under the External Assets folder are not included.  
+	If you want to build this Unity project, please add them manually.  
+	```
+	https://github.com/SuzukiNene/CrossView3D/blob/master/Assets/External%20Assets/FileList.txt
+<br>
+
+## バイナリ - Binary
+
+- GitHub  
+https://github.com/SuzukiNene/CrossView3D/releases  
+- WebGL version  
+https://suzukinene.github.io/CrossViewWeb/  
+- Microsoft Store  
+(T.B.D)  
+<br>
+
 ## ライセンス - License  
 
 - Unity Asset Store  
@@ -318,5 +314,4 @@ https://suzukinene.github.io/CrossViewWeb/
 	- https://github.com/gkngkc/UnityStandaloneFileBrowser/blob/master/LICENSE.txt  
 <br>
 
-
-thank you.
+Thank you.
