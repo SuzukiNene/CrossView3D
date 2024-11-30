@@ -103,9 +103,10 @@ public class SelectFileDialog : AnimationDialog
 
     public void OnSampleURL(int index)
     {
+#if UNITY_WEBGL
         const string sampleURL_1 = "https://archive.robocup.info/Soccer/Simulation/2D/logs/RoboCup/2008/MainRound/GroupF/200807181000-Oxsy_4-vs-HELIOS2008_3.rcg.gz";
         const string sampleURL_2 = "https://archive.robocup.info/Soccer/Simulation/2D/logs/RoboCup/2014/MainRound/201407231109-YuShan2014_2-vs-Infographics_0.rcg.gz";
-        const string sampleURL_3 = "https://archive.robocup.info/Soccer/Simulation/2D/logs/RoboCup/2023/Finals/202307090739-Hermes2D_2-vs-R3CESBU_6.rcg.gz";
+        const string sampleURL_3 = "https://archive.robocup.info/Soccer/Simulation/2D/logs/RoboCup/2023/Finals/20230709095303-Hermes2D_2-vs-R3CESBU_6.rcg.gz";
         string[] SampleURLs =
         {
             sampleURL_1,
@@ -117,6 +118,7 @@ public class SelectFileDialog : AnimationDialog
         {
             uiURL.text = SampleURLs[index];
         }
+#endif
     }
 
     public string GetUri()
